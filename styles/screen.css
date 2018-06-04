@@ -626,8 +626,8 @@ header .space {
   z-index: 1;
 }
 header .logo {
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
   -webkit-background-size: contain;
   -moz-background-size: contain;
